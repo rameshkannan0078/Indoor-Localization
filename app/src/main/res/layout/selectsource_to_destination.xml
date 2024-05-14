@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Select the location "
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="396dp"
+        android:layout_height="wrap_content"
+        android:text="Source: "
+        android:textSize="25sp" />
+
+    <Spinner
+        android:id="@+id/color_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:entries="@array/color_options" />
+
+    <TextView
+        android:layout_width="389dp"
+        android:layout_height="56dp"
+        android:text="Destination: "
+        android:textSize="25sp" />
+
+    <Spinner
+        android:id="@+id/size_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:entries="@array/size_options" />
+
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:text="Submit" />
+
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/drawable/location.xml" value="0.168" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/layout/activity_welcome.xml" value="0.17552083333333332" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/layout/add_or_show.xml" value="0.1" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/layout/instruction_page.xml" value="0.4223057644110276" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/layout/layout.xml" value="0.16145833333333334" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/layout/selectsource_to_destination.xml" value="0.1" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/layout/showarrow_destination.xml" value="0.121875" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
+        <entry key="..\:/Final Year Project/ramesh/Code/acceleratorpro/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1785" />
+        <entry key="..\:/Programs/Flutter Projects/HaiyumCompanyProjects/acceleratorpro/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

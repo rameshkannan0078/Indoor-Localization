@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="color_options">
+        <item>Staff Room</item>
+        <item>HOD room</item>
+        <item>Boys Restroom</item>
+        <item>CSE Lab</item>
+        <item>1024</item>
+        <item>Girls Restroom</item>
+    </string-array>
+    <string-array name="size_options">
+        <item>Staff Room</item>
+        <item>HOD room</item>
+        <item>Boys Restroom</item>
+        <item>CSE Lab</item>
+        <item>1024</item>
+        <item>Girls Restroom</item>
+    </string-array>
+</resources>
